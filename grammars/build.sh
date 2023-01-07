@@ -1,0 +1,1 @@
+antlr4 -Dlanguage=Cpp MiniC.g4
